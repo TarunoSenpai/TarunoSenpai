@@ -1,6 +1,6 @@
 ### Hi there, I'm Taruno 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=skilozz&label=Profile%20views&color=0e75b6&style=flat" alt="TarunoSenpai" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TarunoSenpai&label=Profile%20views&color=0e75b6&style=flat" alt="TarunoSenpai" /> </p>
 
 - 🔭 Currently working on Plutonium
 - 🌱 I’m currently learning (PHP, PMMP etc..)

@@ -11,8 +11,8 @@
 
 - Discord Profile : [ClickHere](https://discord.bio/Taruno)
 - Discord Server : [ClickHere](https://discord.gg/Q3MzGZk)
-- Minecraft Mcpe : [ClickHere](https://xboxgamertag.com/search/TarunoMC)
-- Youtube : [ClickHere](https://www.youtube.com/channel/UCoHPBUQQq6ARChqOMEx6c5Q)
+- Mcpe Profile : [ClickHere](https://xboxgamertag.com/search/TarunoMC)
+- Youtube Channel : [ClickHere](https://www.youtube.com/channel/UCoHPBUQQq6ARChqOMEx6c5Q)
 
 ### Languages & My Tools:
 

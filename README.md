@@ -7,7 +7,7 @@
 - :mailbox: How to reach me privately : Taruno#0004.
 - :computer: Part of Developer Community [![GitHub TarunoSenpai](https://img.shields.io/github/followers/TarunoSenpai?label=follow&style=social)](https://github.com/TarunoSenpai).
 
-### Outside of [GitHub](https://github.com/TarunoSenpaii/), You can find me here :
+### Outside of [GitHub](https://github.com/TarunoSenpaii/), You can find me here:
 
 - Discord Server : [ClickHere](https://discord.gg/Q3MzGZk)
 - Discord Profil : [ClickHere](https://discord.bio/Taruno)
@@ -19,3 +19,8 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br />
 <br />
+
+### Statistiques:
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShockedPlot7560&show_icons=true&hide_border=true&theme=dark" alt="ShockedPlot7560" /></p>
+<img align="left" alt="Taruno's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TarunoSenpai&show_icons=true&hide_border=true&theme=prussian" />

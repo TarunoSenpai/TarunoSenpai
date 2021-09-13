@@ -6,7 +6,7 @@
 - :seedling: I’m currently learning (PHP, PMMP etc..).
 - :computer: Part of Developer Community.
 - :mailbox: How to reach me privately : Taruno#0004.
-- :crown: How to reach my publicly : [Discord](https://discord.gg/Q3MzGZk)
+- :crown: How to reach my publicly : [DiscordLink](https://discord.gg/Q3MzGZk)
 
 ### My Tools:
 

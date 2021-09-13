@@ -2,11 +2,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skilozz&label=Profile%20views&color=0e75b6&style=flat" alt="TarunoSenpai" /> </p>
 
+<img align="left" alt="Taruno's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TarunoSenpai&show_icons=true&hide_border=true&theme=prussian" />
+
 - :telescope: Currently working on Plutonium & Private projects
 - :seedling: I’m currently learning (PHP, PMMP etc..).
 - :computer: Part of Developer Community.
 - :mailbox: How to reach me privately : Taruno#0004.
-- :speech_balloon: How to reach my publicly : [DiscordLink](https://discord.gg/Q3MzGZk) <img align="left" alt="Taruno's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TarunoSenpai&show_icons=true&hide_border=true&theme=prussian" />
+- :speech_balloon: How to reach my publicly : [DiscordLink](https://discord.gg/Q3MzGZk)
 
 ### My Tools:
 

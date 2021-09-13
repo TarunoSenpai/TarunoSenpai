@@ -1,19 +1,33 @@
-### Hi there, I'm Taruno 👋
+### Hello World :wave: It's [@the.pro.developer](https://in.linkedin.com/in/)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=skilozz&label=Profile%20views&color=0e75b6&style=flat" alt="TarunoSenpai" /> </p>
+<a href="https://in.linkedin.com/in/">
+<img align="left" alt="developer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
-- 🔭 Currently working on Plutonium
-- 🌱 I’m currently learning (PHP, PMMP etc..)
-- 📫 How to reach me : Taruno#0004 on discord.
+<a href="https://www.instagram.com/the.pro.developer/">
+<img align="left" alt="developer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
-### My Tools:
+Hi,I'm a Web Developer, Technical Content Writer and Problem Setter. Apart from that I love getting involved in Competitive Programming 
+and Problem Solving.:heart::v:
 
-<img align="left" alt="PhpStorm" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<br />
-<br />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TarunoSenpai&show_icons=true&hide_border=true&theme=dark" alt="TarunoSenpai" /></p>
-<img align="left" alt="Taruno's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TarunoSenpai&show_icons=true&hide_border=true&theme=dark" />
+**Talking about Personal Stuffs:**
+
+- :telescope: I’m currently Intern at GeeksforGeeks and Cutshort.
+- :seedling: I’m currently learning MERN Stack.
+- :people_with_bunny_ears_partying: Part of Developer Community.
+- :speech_balloon: Ask me about anything , Would love to answer them.:v:
+- :mailbox: How to reach me: Any of the Social-Media Platform 
+- :zap: Check out my recent [Posts](https://www.instagram.com/the.pro.developer/)
+
+**Languages and Tools:**
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+![the.pro.developer's github stats](https://github-readme-stats.vercel.app/api?username=the.pro.developer&show_icons=true&hide_border=true)

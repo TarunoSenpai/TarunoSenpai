@@ -1,4 +1,4 @@
-### Hi there, I'm Taruno ! [@Taruno](https://discord.bio/Taruno)
+### Hi there, I'm [@Taruno](https://discord.bio/Taruno) !
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skilozz&label=Profile%20views&color=0e75b6&style=flat" alt="TarunoSenpai" /> </p>
 
@@ -6,7 +6,7 @@
 - :seedling: I’m currently learning (PHP, PMMP etc..).
 - :computer: Part of Developer Community.
 - :mailbox: How to reach me : Taruno#0004 on discord.
-- :newspaper2: My Discord where i'm : [ClickHere](https://discord.gg/Q3MzGZk)
+- :newspaper2: My Discord where i'm : [@ClickHere](https://discord.gg/Q3MzGZk)
 
 ### My Tools:
 

@@ -22,5 +22,5 @@
 
 ### Statistiques:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShockedPlot7560&show_icons=true&hide_border=true&theme=dark" alt="ShockedPlot7560" /></p>
-<img align="left" alt="Taruno's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TarunoSenpai&show_icons=true&hide_border=true&theme=prussian" />
+- <img align="left" alt="Taruno's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TarunoSenpai&show_icons=true&hide_border=true&theme=prussian" />
+- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShockedPlot7560&show_icons=true&hide_border=true&theme=dark" alt="ShockedPlot7560" /></p>

@@ -14,8 +14,6 @@
 - Minecraft Mcpe : [ClickHere](https://xboxgamertag.com/search/TarunoMC)
 - Youtube : [ClickHere](https://www.youtube.com/channel/UCoHPBUQQq6ARChqOMEx6c5Q)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TarunoSenpai&show_icons=true&hide_border=true&theme=dark" alt="ShockedPlot7560" /></p>
-
 ### Languages & My Tools:
 
 <img align="left" alt="PhpStorm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/1200px-PhpStorm_Icon.svg.png"/>

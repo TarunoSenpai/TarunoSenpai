@@ -8,10 +8,7 @@
 - :mailbox: How to reach me privately : Taruno#0004.
 - :speech_balloon: How to reach my publicly : [DiscordLink](https://discord.gg/Q3MzGZk)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShockedPlot7560&show_icons=true&hide_border=true&theme=dark" alt="ShockedPlot7560" /></p>
-
-
-### My Tools:
+### Languages & My Tools:
 
 <img align="left" alt="PhpStorm" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
@@ -25,4 +22,4 @@
 
 Outside of [GitHub](https://github.com/TarunoSenpaii/), You can find me here :
 
-[![GitHub MianJawadAhmad](https://img.shields.io/github/followers/MianJawadAhmad?label=follow&style=social)](https://github.com/MianJawadAhmad)
+[![GitHub MianJawadAhmad](https://img.shields.io/github/followers/TarunoSenpai?label=follow&style=social)](https://github.com/TarunoSenpai)

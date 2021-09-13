@@ -24,7 +24,6 @@
 <img align="left" alt="Discord" width="26px" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png"/>
 <br />
 <br />
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TarunoSenpai&show_icons=true&hide_border=true&theme=dark" alt="ShockedPlot7560" /></p>
 
 ### Statistics:

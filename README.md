@@ -1,7 +1,5 @@
 ### Hi there, I'm [@Taruno](https://discord.bio/Taruno) !
 
-<img align="left" alt="Taruno's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TarunoSenpai&show_icons=true&hide_border=true&theme=prussian" />
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skilozz&label=Profile%20views&color=0e75b6&style=flat" alt="TarunoSenpai" /> </p>
 
 - :telescope: Currently working on Plutonium
@@ -9,6 +7,9 @@
 - :computer: Part of Developer Community.
 - :mailbox: How to reach me privately : Taruno#0004.
 - :speech_balloon: How to reach my publicly : [DiscordLink](https://discord.gg/Q3MzGZk)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShockedPlot7560&show_icons=true&hide_border=true&theme=dark" alt="ShockedPlot7560" /></p>
+
 
 ### My Tools:
 
@@ -20,6 +21,7 @@
 <br />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShockedPlot7560&show_icons=true&hide_border=true&theme=dark" alt="ShockedPlot7560" /></p>
+<img align="left" alt="Taruno's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TarunoSenpai&show_icons=true&hide_border=true&theme=prussian" />
 
 Outside of [GitHub](https://github.com/TarunoSenpaii/), You can find me here :
 

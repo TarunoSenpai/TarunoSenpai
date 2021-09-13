@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skilozz&label=Profile%20views&color=0e75b6&style=flat" alt="TarunoSenpai" /> </p>
 
-- :telescope: Currently working on Plutonium.
+- :telescope: Currently working on Plutonium & Private projects
 - :seedling: I’m currently learning (PHP, PMMP etc..).
 - :computer: Part of Developer Community.
 - :mailbox: How to reach me privately : Taruno#0004.

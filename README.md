@@ -15,5 +15,5 @@
 <br />
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skilozz&show_icons=true&hide_border=true&theme=dark" alt="skilozz" /></p>
-<img align="left" alt="SkiloZZ's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SkiloZZ&show_icons=true&hide_border=true&theme=dark" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skilozz&show_icons=true&hide_border=true&theme=dark" alt="TarunoSenpai" /></p>
+<img align="left" alt="Taruno's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TarunoSenpai&show_icons=true&hide_border=true&theme=dark" />

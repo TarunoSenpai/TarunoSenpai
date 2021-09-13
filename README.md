@@ -5,8 +5,8 @@
 - :telescope: Currently working on Plutonium.
 - :seedling: I’m currently learning (PHP, PMMP etc..).
 - :computer: Part of Developer Community.
-- :mailbox: How to reach me : Taruno#0004 on discord.
-- :newspaper2: My Discord where i'm : [@ClickHere](https://discord.gg/Q3MzGZk)
+- :mailbox: How to reach me privately : Taruno#0004.
+- :crown: How to reach my publicly : [ClickHere](https://discord.gg/Q3MzGZk)
 
 ### My Tools:
 

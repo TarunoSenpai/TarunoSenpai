@@ -20,6 +20,7 @@
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
 <p align="center">
+<img src="https://img.shields.io/badge/-php-purple?style=flat-square&logo=php"/>
 <img src="https://img.shields.io/badge/-javascript-yellow?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>

@@ -6,8 +6,8 @@
 
 <p align="center">
  
- <img src="https://badges.pufler.dev/visits/ritik307/TarunoSenpai"/> 
- <!-- <img src="https://badges.pufler.dev/years/TarunoSenpai"/> -->
+ <img src="https://badges.pufler.dev/visits/TarunoSenpai/TarunoSenpai"/> 
+ <img src="https://badges.pufler.dev/years/TarunoSenpai"/> -->
  <img src="https://badges.pufler.dev/repos/TarunoSenpai"/>
  <img src="https://badges.pufler.dev/commits/monthly/TarunoSenpai" />
 
@@ -15,17 +15,18 @@
 
 <h2 align="center"><img src="https://komarev.com/ghpvc/?username=skilozz&label=Profile%20views&color=0e75b6&style=flat" alt="TarunoSenpai" /> </p>
 
-- :telescope: Currently working on Plutonium.
-- :seedling: Developper PHP & JavaScript
-- :mailbox: How to reach me privately : Taruno#0004
-- :computer: Part of Developer Community ([![GitHub TarunoSenpai](https://img.shields.io/github/followers/TarunoSenpai?label=follow&style=social)](https://github.com/TarunoSenpai)).
+:telescope: Currently working on Plutonium.
+:seedling: Developper PHP & JavaScript
+:mailbox: How to reach me privately : Taruno#0004
+:computer: Part of Developer Community ([![GitHub TarunoSenpai](https://img.shields.io/github/followers/TarunoSenpai?label=follow&style=social)](https://github.com/TarunoSenpai)).
 
 <h2 align="center">Outside of [GitHub](https://github.com/TarunoSenpaii/), You can find me here:
 
-- Discord Profile : [ClickHere](https://discord.bio/Taruno)
-- Discord Server : [ClickHere](https://discord.gg/Q3MzGZk)
-- Youtube Channel : [ClickHere](https://www.youtube.com/channel/UCoHPBUQQq6ARChqOMEx6c5Q)
-- Mcpe Profile : [ClickHere](https://xboxgamertag.com/search/TarunoMC)
+Discord Profile : [ClickHere](https://discord.bio/Taruno)
+Discord Server : [ClickHere](https://discord.gg/Q3MzGZk)
+Youtube Channel : [ClickHere](https://www.youtube.com/channel/UCoHPBUQQq6ARChqOMEx6c5Q)
+Mcpe Profile : [ClickHere](https://xboxgamertag.com/search/TarunoMC)
+Java Profile : [ClickHere](https://fr.namemc.com/profile/Taruno.2)
 
 <h2 align="center">Technology & Tools
 

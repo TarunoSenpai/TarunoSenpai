@@ -13,9 +13,19 @@
 
 </p>
 
-<p align="center">
-  I'm a 3rd year student pursuing Master's in Computer Applications 🎓 from Guru Gobind Singh Indraprastha University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies👨🏻‍💻. I'm deep into Web 🕸️ Development.
-</p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=skilozz&label=Profile%20views&color=0e75b6&style=flat" alt="TarunoSenpai" /> </p>
+
+- :telescope: Currently working on Plutonium.
+- :seedling: Developper PHP & JavaScript
+- :mailbox: How to reach me privately : Taruno#0004
+- :computer: Part of Developer Community ([![GitHub TarunoSenpai](https://img.shields.io/github/followers/TarunoSenpai?label=follow&style=social)](https://github.com/TarunoSenpai)).
+
+### Outside of [GitHub](https://github.com/TarunoSenpaii/), You can find me here:
+
+- Discord Profile : [ClickHere](https://discord.bio/Taruno)
+- Discord Server : [ClickHere](https://discord.gg/Q3MzGZk)
+- Youtube Channel : [ClickHere](https://www.youtube.com/channel/UCoHPBUQQq6ARChqOMEx6c5Q)
+- Mcpe Profile : [ClickHere](https://xboxgamertag.com/search/TarunoMC)
 
 <h2 align="center">Technology & Tools <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 

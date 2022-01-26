@@ -16,6 +16,7 @@
 
 ### Languages & My Tools:
 
+<img align="left" alt="PhpStorm" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FJavaScript&psig=AOvVaw3Gl5heplRMKla2czI2_NyP&ust=1643303717635000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKio0t31z_UCFQAAAAAdAAAAABAD"/>
 <img align="left" alt="PhpStorm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/1200px-PhpStorm_Icon.svg.png"/>
 <img align="left" alt="PocketMine" width="26px" src="https://minecraft-bedrock.fr/wp-content/uploads/2015/05/wpid-unnamed.png"/>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"/>

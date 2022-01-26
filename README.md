@@ -6,8 +6,7 @@
 
 <p align="center">
  
- <img src="https://badges.pufler.dev/visits/TarunoSenpai/TarunoSenpai"/> 
- <img src="https://badges.pufler.dev/years/TarunoSenpai"/> -->
+ <img src="https://komarev.com/ghpvc/?username=skilozz&label=Profile%20views&color=0e75b6&style=flat" alt="TarunoSenpai" /> </p>
  <img src="https://badges.pufler.dev/repos/TarunoSenpai"/>
  <img src="https://badges.pufler.dev/commits/monthly/TarunoSenpai" />
 

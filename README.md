@@ -21,12 +21,12 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/-php-purple?style=flat-square&logo=php"/>
- <img src="https://img.shields.io/badge/-nodejs-green?style=flat-square&logo=nodejs"/>
+<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
 <img src="https://img.shields.io/badge/-javascript-yellow?style=flat-square&logo=javascript"/>
-  <img src="https://img.shields.io/badge/-pocketmine-blue?style=flat-square&logo=pocketmine"/>
+<img src="https://img.shields.io/badge/-pocketmine-blue?style=flat-square&logo=pocketmine"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
- <img src="https://img.shields.io/badge/-visualstudiocode-blue?style=flat-square&logo=visualstudiocode"/>
-  <img src="https://img.shields.io/badge/-discord-blue?style=flat-square&logo=discord"/>
+<img src="https://img.shields.io/badge/-visualstudiocode-blue?style=flat-square&logo=visualstudiocode"/>
+<img src="https://img.shields.io/badge/-discord-blue?style=flat-square&logo=discord"/>
 </p>
 
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>

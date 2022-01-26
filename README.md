@@ -9,16 +9,18 @@
  <img src="https://badges.pufler.dev/repos/TarunoSenpai"/>
  <img src="https://badges.pufler.dev/commits/monthly/TarunoSenpai" />
 
-<h2 align="center">Reach me & Contact</p>
+ <h2 align="center">Hello im Taruno !</p>
+
+<h2 align="center">Description</p>
 
 </p>
 
 :telescope: Currently working on Plutonium.</p>
-:mortar_board: Developper PHP & JavaScript</p>
-:mailbox: How to reach me privately : Taruno#0004</p>
-:computer: Part of Developer Community.</p>
+:computer: Developper PHP & JavaScript</p>
+:mortar_board: PocketMine-MP & Discord Js</p>
+:gem: Part of Developer Community.</p>
 
-<h2 align="center">Find me & Contact</p>
+<h2 align="center">Social Links</p>
 
 </p>
 
@@ -40,41 +42,40 @@ Java Profile : [ClickHere](https://fr.namemc.com/profile/Taruno.2)</p>
 <img src="https://img.shields.io/badge/-discord-blue?style=flat-square&logo=discord"/>
 </p>
 
-<h2 align="center">Reach me out on</p>
+<h2 align="center">Reach me & Contact</p>
 
 <p align="center">
 <a href="mailto: contact.taruno@gmail.com">
  <img src="https://img.shields.io/badge/-Taruno-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact.taruno@gmail.com"/>
 </a>
  <a href="https://discords.com/bio/p/taruno">
- <img src="https://img.shields.io/badge/-Taruno#0004-blue?style=flat-square&logo=discord&logoColor=blue&link=https://discords.com/bio/p/taruno"/>
+<img src="https://img.shields.io/badge/-Taruno-blue?style=flat-square&logo=discord"/>
 </a>
 </p>
 
 <h2 align="center">
-  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
-</h2>
+  My Contribution Graph
 <p align="center">
   <img src="https://github.com/ritik307/ritik307/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 <h2 align="center">
-  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+  My Github Stats
 </h2>
  
 <br>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=ritik307&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ritik307&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=TarunoSenpai&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=TarunoSenpai&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ritik307&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=TarunoSenpai&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=ritik307&theme=redical">
+ <img src="https://activity-graph.herokuapp.com/graph?username=TarunoSenpai&theme=redical">
 </p> 
 <hr>
-<p align="center">If you like it, do fork 🍴 and star ⭐</p>
+<p align="center">If you like this page leave a ⭐</p>

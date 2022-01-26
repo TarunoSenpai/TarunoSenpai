@@ -6,7 +6,7 @@
 
 <p align="center">
  
- <img src="https://komarev.com/ghpvc/?username=skilozz&label=Profile%20views&color=26D701&style=flat" alt="TarunoSenpai" />
+ <img src="https://komarev.com/ghpvc/?username=skilozz&label=Profile%20views&color=00C301&style=flat" alt="TarunoSenpai" />
  <img src="https://badges.pufler.dev/repos/TarunoSenpai"/>
  <img src="https://badges.pufler.dev/commits/monthly/TarunoSenpai" />
 
@@ -37,7 +37,7 @@ Java Profile : [ClickHere](https://fr.namemc.com/profile/Taruno.2)</p>
 <img src="https://img.shields.io/badge/-discord-blue?style=flat-square&logo=discord"/>
 </p>
 
-<h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+<h2 align="center">Reach me out on
 
 <p align="center">
 <!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->

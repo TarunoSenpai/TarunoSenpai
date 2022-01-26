@@ -20,8 +20,6 @@
 :mailbox: How to reach me privately : Taruno#0004</p>
 :computer: Part of Developer Community ([![GitHub TarunoSenpai](https://img.shields.io/github/followers/TarunoSenpai?label=follow&style=social)](https://github.com/TarunoSenpai)).</p>
 
-<h2 align="center">Outside of [GitHub](https://github.com/TarunoSenpaii/), You can find me here:
-
 Discord Profile : [ClickHere](https://discord.bio/Taruno)</p>
 Discord Server : [ClickHere](https://discord.gg/Q3MzGZk)</p>
 Youtube Channel : [ClickHere](https://www.youtube.com/channel/UCoHPBUQQq6ARChqOMEx6c5Q)</p>
